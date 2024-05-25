@@ -1,0 +1,1 @@
+Aquí se crearán archivos para validar los procesos de la app.

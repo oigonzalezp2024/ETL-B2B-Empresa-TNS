@@ -61,11 +61,11 @@ https://api.tns.co/index.html#operations-Ventas-post_api_Ventas_Crear
 }
 ```
 
-El deseño mínimo de una base de datos compatible sería:
+El diseño mínimo de una base de datos compatible sería:
 ![alt text](./images/image-2.png)
 
-El código SQL está en la carpeta bbdd.
-./bbdd/administracion.sql
+El código SQL está en la carpeta:
+> ./bbdd/administracion.sql
 
 ```SQL
 CREATE DATABASE IF NOT EXISTS administracion;
